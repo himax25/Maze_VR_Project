@@ -18,9 +18,7 @@ Built a VR application using Unity and the Google VR SDK where the user explores
 ```fresh_tomatoes.open_movies_page(movies)``` 
 
 ## **Video recording clipping**
-* ![Video recording for the Maze Entrance](https://github.com/himax25/Maze_Project/blob/master/01_Maze_Enterance.mp4) 
-* ![Video recording for finding the key](https://github.com/himax25/Maze_Project/blob/master/02_Maze_Find_the_Key.mp4)  
-* ![Video recording to open the Temple with the key](https://github.com/himax25/Maze_Project/blob/master/03_Maze_Temple.mp4)  
+Please Click the following youtube URL to see the full recording session https://youtu.be/OrTI4OxAFXc 
 
 ## **Author of this coding**
 * Hyo Lee, linkedin [here](https://www.linkedin.com/in/hyo-max-lee-61241b13/)
